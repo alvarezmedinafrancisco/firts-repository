@@ -1,0 +1,7 @@
+publish to github va a precer arriba texto para tener nombre y tiene que ser publico , haces los cambios
+en donde dice message poner un mensaje normal darle a commt and publish si me marca un error es que no 
+eh iniciado secion con git , como inico secion con git terminal: git config user.name"usuario"(el de github)
+git config user.email"correo registrado" ya con eso 
+
+
+realiza una funcion que reciba como parametro n valores y me diga cul es el balor mayor y el menor
